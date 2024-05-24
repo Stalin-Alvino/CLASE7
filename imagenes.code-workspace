@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../Clase6/imagenes"
+		},
+		{
+			"path": "../Clase6"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Clase7"
+	}
+}
